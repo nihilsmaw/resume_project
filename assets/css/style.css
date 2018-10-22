@@ -27,6 +27,10 @@
 
 }
 
+.bg-color-three-reasons {
+    background-color: #fff;
+
+}
 
 /*--special text/padding/margins */
 
@@ -46,6 +50,23 @@ h5 {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     color: #fafafa;
+}
+
+.section-column {
+    padding: 0 30px;
+    float: none;
+    display: table-cell;
+}
+
+.row-table {
+    display: table;
+}
+
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
 }
 
 /*--heading */
